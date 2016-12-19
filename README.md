@@ -1,5 +1,5 @@
 # video
-HTML5 video网页播放器 适用ie11及以上浏览器,后续兼容更浏览器
+HTML5 video网页播放器 适用ie11及以上浏览器,后续兼容更多浏览器
 #使用方法
 ```html
 <link href="css/video-js-min.css" rel="stylesheet">
